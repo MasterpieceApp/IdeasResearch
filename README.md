@@ -1,3 +1,5 @@
 # IdeasResearch
 
-Ноутбук, написанный мною для статьи на [Хабр](https://habrahabr.ru/post/344254/)
+Jupyter Notebook with quick NLP research of our competitors' ideas.
+
+The result were posted to Habrahabr: [article](https://habrahabr.ru/post/344254/)
